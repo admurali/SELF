@@ -1,0 +1,4 @@
+Package: self
+Type: Package
+LazyData: TRUE
+RoxygenNote: 5.0.1
