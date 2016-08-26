@@ -7,7 +7,7 @@ To summarize, ***self*** is good when analyzing lots data by yourself, but can a
 When writing this package, the following guidelines were followed as strictly as possible, [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml#assignment) 
 
 ## Examples 
-Checkout the web app [housing-predictions](https://github.com/admurali/housing-prediction) that uses ***self** and Shiny, a web application framework using R, to allow users to predict a value of a house in Cupertino, California, where Apple's headquarter (HQ) is located. 
+Checkout the web app [housing-predictions](https://github.com/admurali/housing-prediction) that uses ***self*** and Shiny, a web application framework using R, to allow users to predict a value of a house in Cupertino, California, where Apple's headquarter (HQ) is located. 
 
 You can see a live demo of this application at: 
 
